@@ -8,7 +8,8 @@ This project is a containerized web application designed for **user creation and
 - **Backend:** A RESTful API developed using FastAPI, responsible for handling business logic and communication with the database.
     
 - **Database:** A MongoDB instance used to persist user data.
-![[Pasted image 20250519105151.png]]
+
+![alt text](image.png)
 
 ### Orchestration Features
 The application is composed of **three Docker containers** orchestrated via **Docker Compose**:
